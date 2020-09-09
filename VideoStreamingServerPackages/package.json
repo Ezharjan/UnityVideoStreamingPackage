@@ -1,0 +1,20 @@
+{
+    "name": "com.unity.ig.video-streaming.server",
+    "displayName": "VideoStreaming Server",
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "description": "Wraps native platform APIs for performing H.264 encoding and RTP streaming.",
+    "dependencies": {
+      "com.unity.collections": "0.0.9-preview12"
+    },
+    "keywords": [
+      "unity",
+      "media",
+      "video",
+      "streaming",
+      "live",
+      "h.264",
+      "rtp",
+      "rtsp"
+    ]
+}
